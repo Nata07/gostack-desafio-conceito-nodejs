@@ -3,7 +3,7 @@
   Desafios Bootcamp GoStack
 </h1>
 
-<h2> Desafio: Conceitos do Node.js <h2>
+<h2> Desafio: Conceitos do Node.js </h2>
 
 <p> Link do desafio: 
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs"> 
